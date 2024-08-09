@@ -1,8 +1,10 @@
-Aplicativo WhatsApp integrado com Firebase, nele é possivel fazer seu cadastro com email e senha, poderá configurar seu perfil com foto, nome ou apelido, adicionar novos amigos e guardar conversas.
+🚀 Aplicativo WhatsApp integrado com Firebase, nele é possivel fazer seu cadastro com email e senha, poderá configurar seu perfil com foto, nome ou apelido, adicionar novos amigos e guardar conversas.
 Por estar integrado com o Firebase, o usuário não precisa se preocupar com armazenamento, visto que eles serão guardados direto na nuvem.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-WhatsApp application integrated with Firebase, where you can register with email and password, you can configure your profile with photo, name or nickname, add new friends and save conversations.
+🚀 WhatsApp application integrated with Firebase, where you can register with email and password, you can configure your profile with photo, name or nickname, add new friends and save conversations.
 As it is integrated with Firebase, the user does not need to worry about storage, as they will be saved directly in the cloud.
+
+📸 Capturas de tela
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![1w](https://github.com/user-attachments/assets/a2c707b6-f31a-483f-8590-1f87bef10bde)
 ![2](https://github.com/user-attachments/assets/460301fb-0543-4b50-925b-0b5b0e70b330)
@@ -10,7 +12,18 @@ As it is integrated with Firebase, the user does not need to worry about storage
 ![4](https://github.com/user-attachments/assets/13cecf85-9cfb-4bdb-ab5f-0d680f9c5197)
 ![5](https://github.com/user-attachments/assets/aa1fbb9f-8123-4f1d-8a47-cdac44d5b401)
 ![6](https://github.com/user-attachments/assets/9ef4adab-5572-49c6-88b0-1fbc06a4cdc3)
+
+🛠️ Tecnologias utilizadas
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- API Firebase
+- XML
+- Navigation
+- Clean Architecture
+- Kotlin
+- Retrofit
+- Coroutines
+- Jetpack Components(ViewBinding, Navigation Components)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
 MIT License
 
 Copyright (c) 2024 Gustavo Agostinho
